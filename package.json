@@ -1,0 +1,17 @@
+{
+  "name": "etk",
+  "version": "0.0.0",
+  "description": "electron tool kit",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangaz1/ETK.git"
+  },
+  "author": "zhangaz1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangaz1/ETK/issues"
+  },
+  "homepage": "https://github.com/zhangaz1/ETK#readme"
+}
